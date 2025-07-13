@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-Myself **Banta Singh**. I am a ✨ B.tech CSE Student ✨ currently in my final year, here on github to showcase my project works.
+💫 About Me
 
-
-- 🔭 I worked as an SDE Intern at Bluestock.
-- 🌱 I’m currently learning MERN Stack.
+🎓 M. Tech CSE '27 at IIT, Patna.
+🎓 B. Tech CSE '25 from PTU, Mohali.
+🔭 I worked as an SDE Intern at Bluestock.
+🌱 I’m currently learning MERN Stack.
 
