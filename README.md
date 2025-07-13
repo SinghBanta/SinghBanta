@@ -1,10 +1,9 @@
 ### Hi there 👋
 
+💫 **About Me**
 
-💫 About Me
-
-🎓 M. Tech CSE '27 at IIT, Patna.
-🎓 B. Tech CSE '25 from PTU, Mohali.
-🔭 I worked as an SDE Intern at Bluestock.
-🌱 I’m currently learning MERN Stack.
+- 🎓 M. Tech CSE '27 at **IIT Patna**
+- 🎓 B. Tech CSE '25 from **IKG PTU, Mohali**
+- 🔭 Worked as an **SDE Intern at Bluestock**
+- 🌱 Currently learning and building projects with the **MERN Stack**
 
