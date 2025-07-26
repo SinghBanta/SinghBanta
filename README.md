@@ -1,41 +1,18 @@
-### Hi there! 👋 I'm Banta Singh
+<h1 align="center">Hey there! 👋 I'm Banta Singh</h1>
 
-🚀 Passionate about building scalable web applications and solving real-world problems through code.
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **M.Tech in Computer Science** (2025–2027) at [IIT Patna](https://www.iitp.ac.in/)
-- 🎓 **B.Tech in CSE** (2021–2025) from [IKG PTU, Mohali](https://www.ptu.ac.in/)
-- 💻 Former **Fullstack Intern** at **Pisoft Informatics** — built real-world applications using the **MERN stack**
-- 🌱 Currently diving deeper into advanced concepts in **React, Node.js, and MongoDB**
-- 🔧 Always experimenting with new tech and side projects
-- 💬 Ask me about **Fullstack development, React performance optimization, or API design**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7931E&center=true&width=440&lines=M.Tech+CSE+%40+IIT+Patna;Fullstack+Developer+%F0%9F%94%A5;MERN+Stack+Enthusiast;Love+to+Build+%26+Break+Stuff" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 My Tech Toolbox
 
-- **Frontend**: React.js, HTML, CSS, Tailwind CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-- **Others**: Git, GitHub, Postman, REST APIs
-
----
-
-### 🌐 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💼 [Portfolio](https://your-portfolio-link.com)
-- 📫 Reach me at: **your.email@example.com**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,vscode" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
 
-> I debug more than I code, but hey — that's where the magic happens! 🪄
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
