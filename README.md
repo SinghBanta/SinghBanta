@@ -15,4 +15,13 @@
 ---
 
 
+### 👨‍🎓 Education & Experience
+
+- 🎓 **M.Tech in Computer Science** (2025–2027) @ [IIT Patna](https://www.iitp.ac.in/)
+- 💼 **Fullstack Intern** @ [Pisoft Informatics](https://pisoftinformatics.com) (Jan–July 2025)
+- 🎓 **B.Tech in CSE** (2021–2025) @ [IKG PTU, Mohali](https://www.ptu.ac.in/)
+
+---
+
+
 
